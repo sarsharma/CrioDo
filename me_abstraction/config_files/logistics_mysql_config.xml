@@ -1,0 +1,5 @@
+<config>
+  <max_conn>10</max_conn>
+  <max_threads>100</max_threads>
+  <port>3306</port>
+</config>

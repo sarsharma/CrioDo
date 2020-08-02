@@ -1,0 +1,5 @@
+<config>
+  <max_listeners>50</max_listeners>
+  <max_threads>10</max_threads>
+  <port>80</port>
+</config>
